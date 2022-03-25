@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Agenor';
+    src: local('Agenor Regular'), local('Agenor-Regular'),
+        url('Agenor-Regular.woff2') format('woff2'),
+        url('Agenor-Regular.woff') format('woff'),
+        url('Agenor-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
